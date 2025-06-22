@@ -98,7 +98,6 @@ I'm a passionate developer who loves turning ideas into reality through code! Wi
 
 <div align="center">
   
-[![Profile Views](https://visitcount.itsvg.in/api?id=bindhhuu&icon=5&color=6)](https://visitcount.itsvg.in)
 
 **Thanks for visiting! 😊**
 
