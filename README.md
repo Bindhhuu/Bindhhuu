@@ -10,7 +10,7 @@ I'm a passionate developer who loves turning ideas into reality through code! Wi
 - 🔭 Currently working on exciting projects with **AGENTIC AI/LLMs** and **WEB DEV**
 - 🌱 Always learning and exploring new technologies
 - 💡 Love solving complex problems with elegant solutions
-- ⚡ Fun fact: I can code in multiple languages and love the challenge!
+
 
 ---
 
